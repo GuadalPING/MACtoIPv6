@@ -1,7 +1,7 @@
 # Project title
 MACtoIPv6 Converter
 # Getting Started
-Run python converter.py, press 1 or 2 and follow.
+Run python converter.py, press 1 or 2 and follow, q to exit program
 
 # How to
 ``` git clone https://github.com/GuadalPING/MACtoIPv6```
