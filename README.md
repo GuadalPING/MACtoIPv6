@@ -1,5 +1,5 @@
 # Project title
-Entroping
+MACtoIPv6 Converter
 # Getting Started
 Run python converter.py, press 1 or 2 and follow.
 
